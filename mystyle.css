@@ -1,0 +1,13 @@
+.bg{
+    background-color: gray;
+    border:20px solid rgb(24, 18, 18);
+    padding: 2px;
+    color: white;
+    font-style: italic;
+}
+h1{
+    text-shadow: whitesmoke;
+    color: black;
+    font-style: normal;
+    
+}
